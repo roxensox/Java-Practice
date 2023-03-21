@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main {
+public class Mortgage {
     public static void main(String[] args) {
         // Establish the scanner I'll be using to take inputs
         Scanner scanner = new Scanner(System.in);
